@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="fr-fr"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>fr-fr</language>
+        
+
+        
+            <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/rss.xml" hreflang="fr-fr" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/rss.xml" hreflang="fr-fr" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Mon portfolio</title>
+        
+
+        
+
+        
+    </channel>
+</rss>
