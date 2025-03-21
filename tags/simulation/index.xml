@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Simulation on Mon portfolio</title><link>http://localhost:1313/tags/simulation/</link><description>Recent content in Simulation on Mon portfolio</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/tags/simulation/index.xml" rel="self" type="application/rss+xml"/><item><title>Pompe à charge négative en composants discrets</title><link>http://localhost:1313/electronique/chargepump/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/electronique/chargepump/</guid><description>&lt;p>Pour un projet de cours, nous avions eu à réaliser une pompe à charge négative, en utilisant uniquement des transistors et des composants passifs.&lt;/p>
+&lt;p>Après simulation sur LTSpice, j&amp;rsquo;ai décidé de réaliser un PCB (sans le fabriquer) pour obtenir des points bonus, en me mettant des contraintes sur la taille du circuit pour rendre cela plus intéressant.&lt;/p>
+&lt;p>&lt;img src="http://localhost:1313/img/electronique/chargepump/sch.png" alt="">&lt;/p>
+&lt;p>&lt;img src="http://localhost:1313/img/electronique/chargepump/pcb.png" alt="">
+&lt;img src="http://localhost:1313/img/electronique/chargepump/single_sideA.png" alt="">
+&lt;img src="http://localhost:1313/img/electronique/chargepump/single_sideB.png" alt="">
+&lt;img src="http://localhost:1313/img/electronique/chargepump/dual_unstacked.png" alt="">&lt;/p>
+&lt;p>État du projet : PCB réalisé.&lt;/p></description></item></channel></rss>
