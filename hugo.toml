@@ -68,12 +68,6 @@ title = "Mon portfolio"
     url = "/autres/"
     weight = 4
 
-  [[menu.main]]
-    name = "Tags"
-    pre = "<span data-feather='tag'></span>"
-    url = "/tags/"
-    weight = 5
-
 [markup]
   [markup.tableOfContents]
     startLevel = 1

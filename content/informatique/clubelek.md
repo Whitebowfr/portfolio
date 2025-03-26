@@ -1,7 +1,7 @@
 ---
 title: Maintenance de la stack informatique d'une association
 type: post
-tags: ["html", "javascript", "node"]
+tags: ["docker"]
 ---
 
 Je suis maintenant SysAdmin des serveurs de l'association étudiante du Clubelek. Ces serveurs comportent de nombreux services auto-hébergés utilisé par les membres pour communiquer, partager des fichiers ou des informations.
